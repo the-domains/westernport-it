@@ -1,0 +1,23 @@
+name: Westernport IT
+favicon: null
+layout_spectrum: 0.44575487030670047
+typography_spectrum: 0.7269698425661772
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2806146515067667
+  lightness: 0.4080515899695456
+  saturation: 0.9963013636879623
+  rhythmicContrast: 0.2610695322509855
+purpose: []
