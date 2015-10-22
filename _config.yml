@@ -1,7 +1,7 @@
 name: Westernport IT
 favicon: null
-layout_spectrum: 0.44575487030670047
-typography_spectrum: 0.7269698425661772
+layout_spectrum: 0.28659
+typography_spectrum: 0.23448
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#cacaca'
     - '#28abe3'
   brandStrength: 0.375
-  lightness: 0.4080515899695456
-  saturation: 0.9963013636879623
-  rhythmicContrast: 0.2610695322509855
+  lightness: 0.4375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
